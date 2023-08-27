@@ -1,0 +1,11 @@
+body{
+    background-color: pink;
+}
+li{
+    background-color: cadetblue;
+    padding: 12px;
+    margin: 23px;
+    border: 4px groove crimson;
+    border-radius: 6px;
+    list-style: none;
+}
